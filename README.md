@@ -6,6 +6,7 @@ Open to entry-level **AI Engineer, Forward Deployed Engineer, Software Engineer,
 
 [![Email](https://img.shields.io/badge/Email-nhrutishaa%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:nhrutishaa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hrutishaa-555555?style=flat-square&logo=github)](https://github.com/hrutishaa)
+[![Substack](https://img.shields.io/badge/Substack-hrutishaa-555555?style=flat-square&logo=substack&logoColor=white)](https://hrutishaa.substack.com)
 
 ---
 
@@ -44,4 +45,4 @@ Every project below has a live demo that runs in the browser.
 
 ---
 
-**Contact:** [nhrutishaa@gmail.com](mailto:nhrutishaa@gmail.com)
+**Contact:** [nhrutishaa@gmail.com](mailto:nhrutishaa@gmail.com) · **Writing:** [hrutishaa.substack.com](https://hrutishaa.substack.com)
