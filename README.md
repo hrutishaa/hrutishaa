@@ -2,7 +2,6 @@
 
 **AI Engineer at CEAC.** I build working software around AI and data: integrations, analytics tools and models that people can actually use.
 
-Open to entry-level **AI Engineer, Forward Deployed Engineer, Software Engineer, Data Analyst and Business Analyst** roles.
 
 [![Email](https://img.shields.io/badge/Email-nhrutishaa%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:nhrutishaa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hrutishaa-555555?style=flat-square&logo=github)](https://github.com/hrutishaa)
